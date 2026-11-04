@@ -50,6 +50,12 @@ The confusion matrices show the classification performance of both models across
 
 ![Confusion matrices](results/confusion_matrices.png)
 
+### Training and Validation Curves
+
+The following plots show the validation accuracy and validation loss during model training.
+
+![Training curves](results/training_curves.png)
+
 ## Technologies Used
 
 - Python
