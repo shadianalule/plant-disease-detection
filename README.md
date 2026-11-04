@@ -44,6 +44,12 @@ Both models were developed using transfer learning.
 
 ResNet50 achieved higher classification performance across the reported evaluation metrics.
 
+### Confusion Matrices
+
+The confusion matrices show the classification performance of both models across the 38 classes.
+
+![Confusion matrices](results/confusion_matrices.png)
+
 ## Technologies Used
 
 - Python
